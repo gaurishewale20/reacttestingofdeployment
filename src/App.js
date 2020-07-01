@@ -17,7 +17,7 @@ function App ()
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi Everbody ! Gauri here
+          Hi Everybody ! Gauri here
         </a>
       </header>
     </div>
