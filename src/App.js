@@ -17,7 +17,7 @@ function App ()
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi Everybody ! Gauri here
+          Konnichiwa Minasan! Gauri desu!
         </a>
       </header>
     </div>
